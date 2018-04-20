@@ -154,12 +154,13 @@ To encourage the free flow of meaning and help others leave silence or violence 
 
 Then, use four powerful listening skills to retrace the other person’s Path to Action to its origins.
 
-- _A_ sk: Start by simply expressing interest in the other person’s views.
+- *Ask:* Start by simply expressing interest in the other person’s views.
 - *Mirror:* Increase safety by respectfully acknowledging the emotions people appear to be feeling.
 - *Paraphrase:* As others begin to share part of their story, restate what you’ve heard to show not just that you understand, but also that it’s safe for them to share what they’re thinking.
 - *Prime:* If others continue to hold back, prime. Take your best guess at what they may be thinking and feeling.
 
-## Move to Action: *(How to Turn Crucial Conversations into Actions and Results)*
+## Move to Action: 
+*(How to Turn Crucial Conversations into Actions and Results)*
 
 Turn your successful crucial conversations into great decisions and united action by avoiding the two traps of violated expectations and inaction.
 
