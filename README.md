@@ -48,13 +48,14 @@ Kevin spoke up. His words were simple enough—something like, “Hey Chris, can
 People who are skilled at dialogue do their best to make it safe for everyone to add their meaning to the shared pool—even ideas that at first glance appear controversial, wrong, or at odds with their own beliefs. Now, obviously, they don’t agree with every idea; they simply do their best to ensure that all ideas find their way into the open. As the Pool of Shared Meaning grows, it helps people in two ways. First, as individuals are exposed to more accurate and relevant information, they make better choices. In a very real sense, the Pool of Shared Meaning is a measure of a group’s IQ. The larger the shared pool, the smarter the decisions. And even though many people may be involved in a choice, when people openly and freely share ideas, the increased time investment is more than offset by the quality of the decision.
 
 <img alt="Crucial Conversations Model" src="https://raw.githubusercontent.com/nazmulb/Crucial-Conversations/master/images/Crucial-Conversations-Model.png" width="550px" />
+
 Crucial Conversations Model
 
 ## Start With Heart:
 Here’s how people who are skilled at dialogue stay focused on their goals—particularly when the going gets tough.
 
 **Work on Me First, Us Second:**
-Remember that the only person you can directly control is yourself.
+- Remember that the only person you can directly control is yourself.
 
 **Focus on What You Really Want:**
 - When you find yourself moving toward silence or violence, stop and pay attention to your motives.
@@ -63,7 +64,8 @@ Remember that the only person you can directly control is yourself.
 - And finally, ask: “How would I behave if this were what I really wanted?”
 
 
-## Master My Stories: *(How to stay in Dialogue when you’re angry, scared, or hurt)*
+## Master My Stories: 
+*(How to stay in Dialogue when you’re angry, scared, or hurt)*
 
 ### Retrace your path:
 
@@ -135,26 +137,27 @@ When others move to silence or violence, step out of the conversation and Make I
 
 When you have a tough message to share, or when you are so convinced of your own rightness that you may push too hard, remember to STATE your path:
 
-- Share your facts: Start with the latest controversial, most persuasive elements from your Path to Action.
-- Tell your story: Explain what you’re beginning to conclude.
-- Ask for others’ paths: Encourage others to share both their facts and their stories.
-- Talk tentatively: State your story as a story—don’t disguise it as a fact.
-- Encourage testing: Make it safe for others to express differing or even opposing views.
+- **Share your facts:** Start with the latest controversial, most persuasive elements from your Path to Action.
+- **Tell your story:** Explain what you’re beginning to conclude.
+- **Ask for others’ paths:** Encourage others to share both their facts and their stories.
+- **Talk tentatively:** State your story as a story—don’t disguise it as a fact.
+- **Encourage testing:** Make it safe for others to express differing or even opposing views.
 
 <img alt="Path to Action" src="https://raw.githubusercontent.com/nazmulb/Crucial-Conversations/master/images/The-Path-to-Action.png" width="500px" />
 
 The Path to Action
 
-## Explore Others’ Paths: *(How to Listen When Others Blow Up or Clam Up)*
+## Explore Others’ Paths: 
+*(How to Listen When Others Blow Up or Clam Up)*
 
 To encourage the free flow of meaning and help others leave silence or violence behind, explore their Paths to Action. Start with an attitude of curiosity and patience. This helps restore safety.
 
 Then, use four powerful listening skills to retrace the other person’s Path to Action to its origins.
 
-- _A_sk: Start by simply expressing interest in the other person’s views.
-- _M_irror: Increase safety by respectfully acknowledging the emotions people appear to be feeling.
-- _P_araphrase: As others begin to share part of their story, restate what you’ve heard to show not just that you understand, but also that it’s safe for them to share what they’re thinking.
-- _P_rime: If others continue to hold back, prime. Take your best guess at what they may be thinking and feeling.
+- _A_ sk: Start by simply expressing interest in the other person’s views.
+- *Mirror:* Increase safety by respectfully acknowledging the emotions people appear to be feeling.
+- *Paraphrase:* As others begin to share part of their story, restate what you’ve heard to show not just that you understand, but also that it’s safe for them to share what they’re thinking.
+- *Prime:* If others continue to hold back, prime. Take your best guess at what they may be thinking and feeling.
 
 ## Move to Action: *(How to Turn Crucial Conversations into Actions and Results)*
 
