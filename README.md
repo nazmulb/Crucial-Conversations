@@ -47,9 +47,9 @@ Kevin spoke up. His words were simple enough—something like, “Hey Chris, can
 ### The Pool of Shared Meaning: 
 People who are skilled at dialogue do their best to make it safe for everyone to add their meaning to the shared pool—even ideas that at first glance appear controversial, wrong, or at odds with their own beliefs. Now, obviously, they don’t agree with every idea; they simply do their best to ensure that all ideas find their way into the open. As the Pool of Shared Meaning grows, it helps people in two ways. First, as individuals are exposed to more accurate and relevant information, they make better choices. In a very real sense, the Pool of Shared Meaning is a measure of a group’s IQ. The larger the shared pool, the smarter the decisions. And even though many people may be involved in a choice, when people openly and freely share ideas, the increased time investment is more than offset by the quality of the decision.
 
-Crucial Conversations Model
+<img alt="Crucial Conversations Model" src="https://raw.githubusercontent.com/nazmulb/Crucial-Conversations/master/images/Crucial-Conversations-Model.png" width="550px" />
 
-<img alt="Crucial Conversations Model" src="https://raw.githubusercontent.com/nazmulb/Crucial-Conversations/master/images/Crucial-Conversations-Model.png" width="420px" />
+Crucial Conversations Model
 
 ## Start With Heart:
 Here’s how people who are skilled at dialogue stay focused on their goals—particularly when the going gets tough.
@@ -142,10 +142,9 @@ When you have a tough message to share, or when you are so convinced of your own
 - Talk tentatively: State your story as a story—don’t disguise it as a fact.
 - Encourage testing: Make it safe for others to express differing or even opposing views.
 
+<img alt="Path to Action" src="https://raw.githubusercontent.com/nazmulb/Crucial-Conversations/master/images/The-Path-to-Action.png" width="500px" />
 
 The Path to Action
-
-<img alt="Path to Action" src="https://raw.githubusercontent.com/nazmulb/Crucial-Conversations/master/images/The-Path-to-Action.png" width="500px" />
 
 ## Explore Others’ Paths: *(How to Listen When Others Blow Up or Clam Up)*
 
