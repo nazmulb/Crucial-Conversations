@@ -1,8 +1,8 @@
 # Crucial Conversations
 
-Crucial conversations are defined as discussions between two people where stakes are high, opinions vary and emotions run strong. There are day-to-day occurrences that affect everyone’s lives - in may cases, there are pivotal conversations whose results may be extremely significant.  
+Crucial conversations are defined as discussions between two people where stakes are high, opinions vary and emotions run strong. There are day-to-day occurrences that affect everyone’s lives - in many cases, there are pivotal conversations whose results may be extremely significant.  
 
-<a href="https://www.vitalsmarts.com/resource/crucial-conversations-book/" target="_blank">This book</a> will teach us how to handle and even master of crucial conversations and by doing so change our live.
+<a href="https://www.vitalsmarts.com/resource/crucial-conversations-book/" target="_blank">This book</a> will teach us how to handle and even master of crucial conversations and by doing so change our lives.
 
 **What makes a conversation “crucial” vs. typical?**
 - First, opinions vary
